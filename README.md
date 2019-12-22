@@ -1,5 +1,4 @@
 # UWGAN_UIE
-UWGAN: UNDERWATER GAN FOR REAL-WORLD UNDERWATER COLOR RESTORATION AND DEHAZINGICLR
-Paper submitted to ICLR2020, https://openreview.net/forum?id=HkgMxkHtPH
+UWGAN: Underwater GAN for real-world underwater color restoration and dehazing
 
-we will make source code public as soon as possible
+we will make source code and datasets public as soon as possible
