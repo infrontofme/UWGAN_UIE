@@ -9,7 +9,7 @@
 
 UWGAN takes color image and its depth map as input, then it synthesizes underwater realistic images based on underwater optical imaging model by learning parameters through generative adversarial training. You can find more details in the [paper](https://arxiv.org/abs/1912.10269).
 
-![UWGAN structure](./Figures/UnderWaterGAN.bmp)
+![UWGAN structure](./Figures/SyntheticUnderwater_styleImages.bmp)
 
 
 
