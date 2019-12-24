@@ -59,8 +59,8 @@ Data directory structure in UWGAN
 
 * Underwater image restoration through our approach. Our method is tested on both [UIEB public benchmark](https://li-chongyi.github.io/proj_benchmark.html) and [Our underwater images collected from marine organisms’ farms](https://pan.baidu.com/s/16NCfZoZUOFMbWLNYYr6xNw).
 
-<video src="./Figures/raw_uie.mp4" controls="controls" width="256" height="256">您的浏览器不支持播放该视频！</video>
-<video src="./Figures/water_uie.mp4" controls="controls" width="256" height="256">您的浏览器不支持播放该视频！</video>
+![public dataset enhancement](./Figures/raw_uie.gif)
+![our dataset enhancement](./Figures/water_uie.gif)
 * High-level computer vision task: underwater target detection on underwater images before and after processing with our method.
 
 ![underwater target detection](./Figures/UnderwaterTargetDetection.bmp)
