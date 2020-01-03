@@ -31,9 +31,13 @@ Download data:
 
 1. In-air RGBD data: [NYU Depth Dataset V1](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v1.html), [NYU Depth Dataset V2](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)
 
-2. Underwater images: [[Baidu Cloud Link](https://pan.baidu.com/s/16NCfZoZUOFMbWLNYYr6xNw)]
+2. Underwater images: [[Baidu Cloud Link](https://pan.baidu.com/s/1lC5YIkEtGmtl-m1V7TQNkw)]
 
 3. UIEB Dataset for verification: [[github link](https://li-chongyi.github.io/proj_benchmark.html)]
+
+4. The datasets we used to train UWGAN: [[Baidu Cloud Link](https://pan.baidu.com/s/1msG0UjvRCT391HyiWuFiVQ)]
+
+5. The public underwater images we used to verified our method: [[Baidu Cloud Link](https://pan.baidu.com/s/19Bpzb0Bq3_FJjXr9vB6h7w)]
 
 Data directory structure in UWGAN
 
