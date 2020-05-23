@@ -37,6 +37,8 @@ Download data:
 
 4. The NYU datasets we used to train UWGAN: [[Baidu Cloud Link](https://pan.baidu.com/s/1msG0UjvRCT391HyiWuFiVQ)] [[Google Drive](https://drive.google.com/open?id=1q1FEcuhMPtqjJgaPSriL8EiBYA-mNGZv)]
 
+5. fake water images generated from UWGAN: [[Google Drive](https://drive.google.com/open?id=1Vy1HtFYY9U7QlMa0Qo8EGCTBuR3_QWb-)]
+
 Data directory structure in UWGAN
 
 ```
