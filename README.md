@@ -39,6 +39,8 @@ Download data:
 
 5. fake water images generated from UWGAN: [[Google Drive](https://drive.google.com/open?id=1Vy1HtFYY9U7QlMa0Qo8EGCTBuR3_QWb-)]
 
+6. pretrained model:[[Google Drive](https://drive.google.com/file/d/14SowRxenGwvjkRmGlSfDm8o9iX0m-mEX/view?usp=sharing)]
+
 Data directory structure in UWGAN
 
 ```
